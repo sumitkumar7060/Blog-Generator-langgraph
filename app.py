@@ -178,7 +178,7 @@ def route_based_on_verdict(state: BlogState):
 # Streamlit UI components
 st.title("Blog Generater")
 st.markdown("""
-**Smart Blog Generation with Auto-Refinement**
+**Smart Blog Generation with Auto-Refinement.**
 """)
 
 # Sidebar components
